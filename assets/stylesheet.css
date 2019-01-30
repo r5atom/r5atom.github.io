@@ -34,7 +34,7 @@ h4 {
 body {
 	font-family: Helvetica, Arial, sans-serif;
 	text-align: justify;
-	background-color: #111911;
+	background-color: #277227;
 	color: #39ad39;
 }
 
@@ -63,9 +63,9 @@ div {
     margin: auto;
     width: 600px;
     padding: 15px;
-    border: 10px solid #277227;
+    border: 10px solid #39ad39;
 	border-radius: 15px;
-	background-color: white;
+	background-color: #111911;
 }
 
 body > p {
